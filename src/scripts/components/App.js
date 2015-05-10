@@ -13,7 +13,7 @@ const App = React.createClass({
     return (
     <div>
       <header>
-        <h1 className="app__title">Roomba</h1>
+        <h1 className="app__title">Reactic Hoover</h1>
       </header>
       <Input/>
       <Room/>
