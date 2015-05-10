@@ -1,0 +1,19 @@
+.output__container{
+ min-height: inherit!important;
+}
+.output__label{
+  font-style: normal;
+  font-weight: bold;
+
+  &--blue{
+    color: cyan;
+  }
+
+  &--green{
+    color: green;
+  }
+
+}
+
+
+

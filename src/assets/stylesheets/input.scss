@@ -1,0 +1,35 @@
+.input__label{
+  display: block;
+}
+
+.input__values{
+  display: block;
+  width: 100%;
+
+  &--error{
+    background-color: lightcoral;
+  }
+}
+
+.input__info{
+  display: block;
+  width: 100%;
+}
+.input__item-info{
+  margin: 0.25em;
+  //padding: 0.25em;
+  list-style-position: inside;
+  list-style-type: circle;
+}
+
+.input__button{
+  border:none;
+  display: inline-block;
+  background-color: green;
+  color: white;
+  margin: 1em;
+}
+
+.input__button--disabled{
+  background-color: darkgray;
+}

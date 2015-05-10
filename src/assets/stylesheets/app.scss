@@ -1,0 +1,30 @@
+@import "reset";
+@import "global";
+
+.app__title{
+  margin: 0.5em 0 0.5em 0.15em;
+  font-size: 200%;
+  font-weight: bold;
+}
+
+.app__container{
+  width: 50%;
+  display: inline-block;
+  vertical-align: top;
+  padding: 0.5em;
+}
+
+.app__title-section{
+  margin: 0.2em;
+  font-size: 150%;
+  font-weight: bold;
+}
+
+.app__content{
+  border:1px solid black;
+  padding: 1em;
+  min-height: 300px;
+}
+
+
+

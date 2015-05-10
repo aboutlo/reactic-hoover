@@ -1,0 +1,30 @@
+.room__container{
+  margin-left:auto;
+  margin-right:auto;
+}
+.room__tile{
+  width: 40px;
+  height: 40px;
+  border: 1px solid lightgray;
+  text-align: center;
+  vertical-align: middle;
+  color: lightgrey;
+
+  &--empty{
+    background-color: white;
+  }
+
+  &--dirty{
+    background-color: darkgray;
+  }
+
+  &--covered{
+    background-color: green;
+    border-radius: 50%;
+  }
+
+  &--cleaned{
+    background-color: lightcyan;
+  }
+
+}
