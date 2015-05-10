@@ -1,21 +1,25 @@
-# Robotic Hoover
+# Reactic Hoover
 
-# requirements
+# Preview
+
+![Alt Preview](/preview.png)
+
+# Requirements
 
     node >= v0.10.35
     npm >= 2.7.3
 
-# install
+# Install
 
-    git checkout https://github.com/aboutlo/reactic-hoover
+    git clone https://github.com/aboutlo/reactic-hoover
     npm install
 
-# development
+# Development
 
     npm run dev
     open http://localhost:8080/webpack-dev-server/
 
-# test
+# Test
 
     npm run test
 
