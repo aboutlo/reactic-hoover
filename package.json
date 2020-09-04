@@ -7,7 +7,7 @@
     "event-emitter": "^0.3.3",
     "flux": "^2.0.1",
     "object-assign": "^2.0.0",
-    "react": "^0.13.2",
+    "react": "^16.13.1",
     "underscore": "^1.8.3"
   },
   "devDependencies": {
